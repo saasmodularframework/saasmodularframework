@@ -1,8 +1,8 @@
-[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20·%20CSE%20Student%20Hackathons%20-nl-%20Mobile%20Software%20%2F%20ML%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20产品%20·%20CSE%20学生黑客松%20-nl-%20移动软件%20%2F%20机器学习应用%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+ML+Applications;+Servers+Replication+%7C+Databases+Partitioning;+Plugins+Constructing;+RAG+Components+%7C+Feature+Stores;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=全栈+开发工程师+%7C+机器学习+工程师;+服务器+复制+%7C+数据库+分区;+插件+构建" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -32,20 +32,21 @@
 </p>
 
 <p align="center">
-  <b>English</b> | <a href="README_zh.md"> 中文</a> | <a href="README_hi.md"> हिन्दी</a> | <a href="README_es.md"> Español</a> | <a href="README_ar.md"> العربية</a> | <a href="README_fr.md"> Français</a>
+  <a href="README.md">English</a> | <b>中文</b> | <a href="README_hi.md"> हिन्दी</a> | <a href="README_es.md"> Español</a> | <a href="README_ar.md"> العربية</a> | <a href="README_fr.md"> Français</a>
 </p>
 
 <img src="https://img.shields.io/badge/CGPA-8.79_%2F_10-informational?style=flat" />
 <div align="left">
-📜 Software, Open Source & ML Conferences<br>
-📜 Certificates, student-led global hackathons<br>
+📜 软件、开源与机器学习会议<br>
+📜 证书、学生主导的全球黑客马拉松<br>
   <a href="https://devsprint-lime.vercel.app/verify/GDGSDS26-66casNrK">
 <img src="https://devsprint-lime.vercel.app/api/badge/GDGSDS26-66casNrK.svg" height="20" alt="Champions Badge" />
-  </a> Hackathons, IBM Dev Days, GDGoC Dev-Sprint<br>
-📜 Examinations, Microsoft GitHub Foundations, Java Serverless<br>
-📜 Undergraduate Degree, Linguistics<br>
-📜 Graduate / Postgraduate Degrees (2020-current), Software Engineering (Engineering, Computer Science(2023-current))<br>
-📜 US-university Courses on Software Engineering / Computer Science (spring-fall 2026)<br>
+  </a> 黑客马拉松、IBM Dev Days、GDGoC Dev-Sprint<br>
+📜 考试认证：Microsoft GitHub Foundations、Java 无服务器<br>
+📜 美国大学计算机科学课程<br>
+📜 本科学位，语言学<br>
+📜 研究生学位（2020年至今），软件工程（工程学、计算机科学（2023年至今））<br>
+📜 美国大学软件工程/计算机科学课程（2026年春秋季）<br>
 </div>
 
 ---
@@ -262,7 +263,7 @@
 |:--|:--|:--|
 |  |  ![Contributions](svg/github_contributions.svg) |  |
 |  |  |  |
-|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=CSE_student)  |  |
+|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=CSE_学生)  |  |
 |  |  |  |
 |  |  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" />--><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
 |  |  |  |
@@ -281,7 +282,7 @@
   <tr>
     <td width="20%" align="center">
 <details>
-  <summary>multiserver-fiction™<br />(2022-current)</summary>
+  <summary>多服务器-科幻™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-01.jpg" alt="multiserver fiction" />
 </a>
@@ -289,7 +290,7 @@
       </td>
     <td width="30%" align="center">
 <details>
-  <summary>sticky-timetable™<br />(2026-current)</summary>
+  <summary>粘性-时间表™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-02.jpg" alt="sticky timetable utility" />
 </a>
@@ -297,7 +298,7 @@
     </td>
         <td width="20%" align="center">
 <details>
-  <summary>metrics-appliances™<br />(2023-current)</summary>
+  <summary>指标-器具™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-03.jpg" alt="metrics appliances" />
 </a>
@@ -305,7 +306,7 @@
       </td>
     <td width="30%" align="center">
 <details>
-  <summary>goods-delivery®<br />(2021-current)</summary>
+  <summary>商品-交付®</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-04.jpg" alt="goods delivery" />
 </a>
@@ -317,7 +318,7 @@
     <tr>
     <td width="15%" align="center">
 <details>
-  <summary>statistics-analyzer™<br />(2023-current)</summary>
+  <summary>统计-分析器™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-05.jpg" alt="statistics analyzer" />
 </a>
@@ -325,7 +326,7 @@
     </td>
     <td width="27.5%" align="center">
 <details>
-  <summary>animated-stock™<br />(2024-current)</summary>
+  <summary>动画-库存™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-06.jpg" alt="animated stock" />
 </a>
@@ -333,7 +334,7 @@
     </td>
         <td width="15%" align="center">
 <details>
-  <summary>saas-subsections™<br />(2025-current)</summary>
+  <summary>saas-子板块™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-07.jpg" alt="saas subsections" />
 </a>
@@ -341,7 +342,7 @@
     </td>
         <td width="27.5%" align="center">
 <details>
-  <summary>travel-nuggets™<br />(2021-current)</summary>
+  <summary>旅游-干货™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-08.jpg" alt="travel nuggets" />
 </a>
@@ -349,7 +350,7 @@
     </td>
         <td width="15%" align="center">
 <details>
-  <summary>furniture-pulls™<br />(2022-current)</summary>
+  <summary>家具-拉手™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/image-09.jpg" alt="furniture pulls" />
 </a>
@@ -357,39 +358,3 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
