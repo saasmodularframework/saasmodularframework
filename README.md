@@ -39,6 +39,7 @@
 <div align="left">
 📜 Software, Open Source & ML Conferences<br>
 📜 Certificates, student-led global hackathons<br>
+<img src="svg/IMG_7130.png" height="20" alt="Participation Badge" />
   <a href="https://devsprint-lime.vercel.app/verify/GDGSDS26-66casNrK">
 <img src="https://devsprint-lime.vercel.app/api/badge/GDGSDS26-66casNrK.svg" height="20" alt="Champions Badge" />
   </a> Hackathons, IBM Dev Days, GDGoC Dev-Sprint<br>
