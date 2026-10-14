@@ -1,0 +1,351 @@
+[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20-nl-%20Mobile%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
+
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Développeur+Full+Stack+%7C+Applications+ML;+Réplication+de+Serveurs+%7C+Partitionnement+de+Bases+de+Données;+Création+de+Plugins" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nataliia-rudnikova">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href=" ">
+  <img src="https://img.shields.io/badge/Portfolio-876479?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
+  </a>
+  <a href="https://www.figma.com">
+    <img src="https://img.shields.io/badge/Figma-756364?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-787777?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+    <a href="https://orcid.org/0009-0008-7057-4241">
+  <img src="https://img.shields.io/badge/ORCID-404854?style=for-the-badge&logo=orcid&logoColor=white" />
+    </a>
+</p>
+
+<p align="center">
+  <a href="README.md">English</a> | <a href="README_de.md"> Deutsch</a> | <a href="README_hi.md"> हिन्दी</a> | <a href="README_es.md"> Español</a> | <a href="README_ar.md"> العربية</a> | <b>Français</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-8.79_%2F_10-informational?style=flat" />
+  <img src="https://img.shields.io/badge/Degré-PhD_SE-2E3440?style=flat-square&labelColor=2E3440&color=88C0D0" alt="Degree" />
+  <img src="https://img.shields.io/badge/Université-KPI-2E3440?style=flat-square&labelColor=2E3440&color=88C0D0" alt="University" />
+  <img src="https://img.shields.io/badge/Année_universitaire-2-2E3440?style=flat-square&labelColor=2E3440&color=88C0D0" alt="Academic Year" />
+  <img src="https://img.shields.io/badge/Degré-PhD_CS-2E3440?style=flat-square&labelColor=2E3440&color=88C0D0" alt="Degree" />
+  <img src="https://img.shields.io/badge/Université-KNU-2E3440?style=flat-square&labelColor=2E3440&color=88C0D0" alt="University" />
+  <img src="https://img.shields.io/badge/Année_universitaire-1-2E3440?style=flat-square&labelColor=2E3440&color=88C0D0" alt="Academic Year" />
+</p>
+<div align="center">
+Conférences sur l’open source et l’apprentissage automatique • Concours pour étudiants en informatique • Examens • Cours d’informatique dans des universités américaines<br>
+</div>
+
+---
+
+<p align="right">
+<a href="https://reactnative.dev"> 
+  <img src="https://img.shields.io/badge/react-111827?style=flat-square&logo=react&logoColor=77848c" style="width: 72px; height: 32px;" />
+</a>
+   <a href="https://developer.apple.com/swiftui/">  
+    <img src="https://img.shields.io/badge/swift-111827?style=flat-square&logo=swift&logoColor=4479A1" style="width: 72px; height: 32px;" />
+  </a>  
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/php-111827?style=flat-square&logo=php&logoColor=4479A1" style="width: 72px; height: 32px;" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+  <img src="https://img.shields.io/badge/csharp-111827?style=flat-square&logo=csharp&logoColor=239120" style="width: 64px; height: 32px;" />
+  </a>
+  <a href="https://docs.unity.com/">
+  <img src="https://img.shields.io/badge/unity-111827?style=flat-square&logo=unity&logoColor=54C5F8" style="width: 70px; height: 32px;" />
+  </a>  
+  <a href="https://pub.dev/">
+  <img src="https://img.shields.io/badge/flutter-111827?style=flat-square&logo=flutter&logoColor=54C5F8" style="width: 76px; height: 32px;" />
+  </a>  
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor"> 
+  <img src="https://img.shields.io/badge/blazor-111827?style=flat-square&logo=blazor&logoColor=512BD4" style="width: 72px; height: 32px;" />
+  </a>  
+  <a href="https://www.djangoproject.com/"> 
+  <img src="https://img.shields.io/badge/django-111827?style=flat-square&logo=django&logoColor=092E20" style="width: 72px; height: 32px;" />
+  </a>
+  <a href="https://kotlinlang.org/docs/multiplatform/kmp-overview.html">
+        <img src="https://img.shields.io/badge/kotlin-111827?style=flat-square&logo=kotlin&logoColor=4479A1" style="width: 72px; height: 32px;" />
+  </a>  
+  <a href="https://nodejs.org/docs/latest/api/">
+    <img src="https://img.shields.io/badge/node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" style="width: 82px; height: 32px;" />
+  </a>
+</p>
+<p align="right">
+<a href="https://expressjs.com">
+  <img src="https://img.shields.io/badge/express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF" style="width: 96px; height: 32px;" />
+  </a> 
+  <a href="https://angularjs.org/"> 
+  <img src="https://img.shields.io/badge/angular.js-111827?style=flat-square&logo=angular&logoColor=E23237" style="width: 96px; height: 32px;" />
+  </a>
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
+  <img src="https://img.shields.io/badge/javascript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" style="width: 96px; height: 32px;" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=3178C6" style="width: 96px; height: 32px;" />
+  </a>  
+     <a href="https://html.spec.whatwg.org/multipage/"> 
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" style="width: 72px; height: 32px;" />
+  </a>
+     <a href="https://sass-lang.com/documentation/"> 
+  <img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css&logoColor=E34F26" style="width: 52px; height: 32px;" />
+  </a>
+     <a href="https://docs.arduino.cc"> 
+  <img src="https://img.shields.io/badge/arduino-111827?style=flat-square&logo=arduino&logoColor=E34F26" style="width: 72px; height: 32px;" />
+  </a>
+  <a href="https://www.terraform.io"> 
+  <img src="https://img.shields.io/badge/terraform-111827?style=flat-square&logo=terraform&logoColor=77848c" style="width: 82px; height: 32px;" />
+</a>
+  <a href="https://docs.blender.org/">
+  <img src="https://img.shields.io/badge/blender-111827?style=flat-square&logo=blender&logoColor=4479A1" style="width: 80px; height: 32px;" />
+  </a>
+</p>
+<p align="right">
+   <a href="https://www.tensorflow.org/"> 
+    <img src="https://img.shields.io/badge/tensorflow-111827?style=flat-square&logo=tensorflow&logoColor=54C5F8" style="width: 96px; height: 32px;" />
+  </a>
+  <a href="https://pytorch.org/"> 
+    <img src="https://img.shields.io/badge/pytorch-111827?style=flat-square&logo=pytorch&logoColor=4479A1" style="width: 86px; height: 32px;" />
+  </a>
+  <a href="https://scikit-learn.org/"> 
+    <img src="https://img.shields.io/badge/scikitlearn-111827?style=flat-square&logo=scikitlearn&logoColor=54C5F8" style="width: 96px; height: 32px;" />
+  </a>
+   <a href="https://scipy.org/"> 
+    <img src="https://img.shields.io/badge/scipy-111827?style=flat-square&logo=scipy&logoColor=54C5F8" style="width: 64px; height: 32px;" />
+  </a>
+    <a href="https://docs.python.org/3/library/index.html">
+  <img src="https://img.shields.io/badge/python-111827?style=flat-square&logo=python&logoColor=3776AB" style="width: 70px; height: 32px;" />
+  </a>  
+    <a href="https://xgboost.readthedocs.io/"> 
+     <img src="https://img.shields.io/badge/XGBoost-111827?style=flat-square&logo=chromadb&logoColor=54C5F8" style="width: 68px; height: 32px;" />
+  </a>
+   <a href="https://keras.io/"> 
+    <img src="https://img.shields.io/badge/keras-111827?style=flat-square&logo=keras&logoColor=4479A1" style="width: 64px; height: 32px;" />
+  </a>
+   <a href="https://numpy.org/"> 
+    <img src="https://img.shields.io/badge/numpy-111827?style=flat-square&logo=numpy&logoColor=54C5F8" style="width: 72px; height: 32px;" />
+  </a>
+  <a href="https://docs.langchain.com/">
+  <img src="https://img.shields.io/badge/langchain-111827?style=flat-square&logo=langchain&logoColor=54C5F8" style="width: 76px; height: 32px;" />
+  </a>
+   <a href="https://spacy.io/"> 
+    <img src="https://img.shields.io/badge/spacy-111827?style=flat-square&logo=spacy&logoColor=54C5F8" style="width: 72px; height: 32px;" />
+  </a>
+</p>
+<p align="right">
+     <a href="https://cassandra.apache.org/"> 
+  <img src="https://img.shields.io/badge/apachecassandra-111827?style=flat-square&logo=apachecassandra&logoColor=4479A1" style="width: 142px; height: 32px;" />
+   </a>
+  <a href="https://www.mongodb.com/products/platform/atlas-database/">  
+    <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" style="width: 96px; height: 32px;" />
+  </a> 
+     <a href="https://www.trychroma.com/"> 
+   <img src="https://img.shields.io/badge/chromadb-111827?style=flat-square&logo=chromadb&logoColor=54C5F8" style="width: 68px; height: 32px;" />
+   </a>
+    <a href="https://www.ibm.com/products/db2">
+    <img src="https://img.shields.io/badge/ibmdb2-111827?style=flat-square&logo=ibmdb2&logoColor=47A248" style="width: 64px; height: 32px;" />
+      </a>
+   <a href="https://sqlite.org/"> 
+    <img src="https://img.shields.io/badge/sqlite-111827?style=flat-square&logo=sqlite&logoColor=4479A1" style="width: 64px; height: 32px;" />
+  </a>
+   <a href="https://www.mysql.com/"> 
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" style="width: 70px; height: 32px;" />
+  </a>
+   <a href="https://www.postgresql.org/"> 
+  <img src="https://img.shields.io/badge/postgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4479A1" style="width: 116px; height: 32px;" />
+  </a>
+    <a href="https://www.docker.com/"> 
+  <img src="https://img.shields.io/badge/docker-111827?style=flat-square&logo=docker&logoColor=4479A1" style="width: 70px; height: 32px;" />
+  </a>
+   <a href="https://kubernetes.io/"> 
+  <img src="https://img.shields.io/badge/kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=4479A1" style="width: 96px; height: 32px;" />
+  </a>
+  </p>  
+  <p align="right">
+    <a href="https://code.visualstudio.com/docs"> 
+   <img src="svg/visualstudio_code.svg" alt="Visual Studio" style="vertical-align:top; margin:6px 4px; width:176px; height:32px;">
+   </a>
+      <a href="https://www.eclipse.org/documentation/"> 
+  <img src="https://img.shields.io/badge/eclipse-111827?style=flat-square&logo=eclipse&logoColor=4479A1" style="width: 82px; height: 32px;" />
+  </a>   
+    <a href="https://www.npmjs.com">
+    <img src="svg/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px; width:82px; height:32px;">
+  </a>
+<a href="https://skillbuilder.aws">  
+    <img src="svg/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px; width:82px; height:32px;">
+</a>
+<a href="https://www.oracle.com/java/">
+    <img src="svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px; width:82px; height:32px;">
+  </a>  
+  <a href="https://openprofile.dev/profile/nrudnikova">
+  <img src="https://img.shields.io/badge/LFX-111827?style=flat-square&logo=linuxfoundation&logoColor=003366" style="width: 70px; height: 32px;" />
+</a>
+  <a href="https://cloud.google.com/">
+    <img src="https://img.shields.io/badge/GCP-111827?style=flat-square&logo=google-cloud&logoColor=4479A1" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px; width:82px; height:32px;">
+</a>
+<a href="https://azure.microsoft.com/en-us/products/machine-learning/">
+    <img src="svg/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px; width:82px; height:32px;">
+</a>
+   <a href="https://vercel.com/"> 
+  <img src="https://img.shields.io/badge/vercel-111827?style=flat-square&logo=vercel&logoColor=4479A1" style="width: 64px; height: 32px;" />
+  </a>
+</p>    
+
+
+<table>
+    <tr>
+    <td width="40%" align="center">
+  <img height="400" src="https://github-stats-extended.vercel.app/api?username=saasmodularframework&show_icons=true&rank_icon=percentile&theme=nord&include_all_commits=true&custom_title=CSE%20student%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage" alt="stats" />
+      </td>
+    <td width="60%" align="center">
+  <img height="400" src="svg/github_languages_scope.svg" alt="top langs" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+          <td width="20%" align="center">
+<details open>
+  <summary>analyseur-de-statistiques™<br />(2023)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/statistics--analyzer.gif" alt="statistics analyzer" />
+ <!--</a>
+</details open>-->
+    </td>
+    <td width="20%" align="center">
+<details open>
+  <summary>stock-animé™<br />(2024)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/animated-stock.jpg" alt="animated stock" />
+ <!--</a>
+</details open>-->
+    </td>
+                <td width="20%" align="center">
+<details open>
+  <summary>utilitaire-serveur™<br />(2025)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/server--utility.jpg" alt="repairs-application" />
+ <!--</a>
+</details open>-->
+    </td>
+        <td width="20%" align="center">
+<details open>
+  <summary>sous-sections-de-saas™<br />(2025)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/saas--subsections.gif" alt="saas subsections" />
+ <!--</a>
+</details open>-->
+    </td>
+        <td width="20%" align="center">
+<details open>
+  <summary>emploi-du-temps-adhésif™<br />(2026)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/sticky-timetable.gif" alt="sticky timetable utility" />
+ <!--</a>
+</details open>-->
+    </td>
+      </tr>
+  </table>
+<table>
+    <tr>
+        <td width="20%" align="center">
+<details open>
+  <summary>pépites-de-voyage™<br />(2021)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/travel--nuggets.jpg" alt="travel nuggets" />
+ <!--</a>
+</details open>-->
+    </td>
+            <td width="20%" align="center">
+<details open>
+  <summary>demande-de_réparation™<br />(2022)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/repairs-application.jpg" alt="repairs-application" />
+ <!--</a>
+</details open>-->
+    </td>
+            <td width="20%" align="center">
+<details open>
+  <summary>fiction-multiserveur™<br />(2022)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/multiserver-fiction.gif" alt="multiserver fiction" />
+ <!--</a>
+</details open>-->
+      </td>
+        <td width="25%" align="center">
+<details open>
+  <summary>poignées-portables™<br />(2022)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/portable-pulls.gif" alt="portable pulls" />
+ <!--</a>
+</details open>-->
+    </td>
+            <td width="20%" align="center">
+<details open>
+  <summary>appareils-de-mesure™<br />(2023)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="400" src="svg/metrics-appliances.gif" alt="metrics appliances" />
+ <!--</a>
+</details open>-->
+      </td>
+    </tr>
+  </table>
+<table>
+    <tr>
+            <td width="20%" align="center">
+<details open>
+  <summary>catalogue-des-réparations™<br />(2021)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/repairs--catalogue.jpg" alt="repairs-application" />
+ <!--</a>
+</details open>-->
+    </td>
+            <td width="20%" align="center">
+<details open>
+  <summary>réparations-env™<br />(2021)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/repairs-environments.jpg" alt="repairs-application" />
+ <!--</a>
+</details open>-->
+    </td>
+          <td width="20%" align="center">
+<details open>
+  <summary>livraison-de-marchandises®<br />(2021)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/goods-delivery.gif" alt="goods delivery" />
+ <!--</a>
+</details open>-->
+    </td>
+        <td width="20%" align="center">
+<details open>
+  <summary>application-de_réparation-en_réalité_virtuelle™<br />(2021)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/vr-repair-application.jpg" alt="vr-repair-application" />
+ <!--</a>
+</details open>-->
+    </td>
+        <td width="20%" align="center">
+<details open>
+  <summary>application-de_réparation-en_réalité_augmentée™<br />(2021)</summary>
+ <!--<a href=" " target="_blank">-->
+  <img height="300" src="svg/ar-repair-application.jpg" alt="ar-repair-application" />
+ <!--</a>
+</details open>-->
+    </td>
+  </tr>
+</table>
+
+|  |  |  |
+|:--|:--|:--|
+|  |  ![Contributions](svg/github_contributions.svg) |  |
+|  |  |  |
+|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=Étudiant_CSE)  |  |
+|  |  |  |
+|  |  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" /><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
+|  |  |  |
+
+
