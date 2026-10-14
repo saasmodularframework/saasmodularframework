@@ -1,4 +1,4 @@
-[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20-nl-%20Mobile%20Software%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20-nl-%20Mobile%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
 
 
 <div align="center">
@@ -26,9 +26,6 @@
     <a href="https://orcid.org/0009-0008-7057-4241">
   <img src="https://img.shields.io/badge/ORCID-404854?style=for-the-badge&logo=orcid&logoColor=white" />
     </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Algorithmic%20Podcast-EAE2D6?style=for-the-badge&logo=spotify&logoColor=1DB954" />
-</a>
 </p>
 
 <p align="center">
@@ -38,16 +35,11 @@
 <img src="https://img.shields.io/badge/CGPA-8.79_%2F_10-informational?style=flat" />
 <div align="left">
 📜 सॉफ्टवेयर, ओपन सोर्स और एमएल सम्मेलन<br>
-📜 प्रमाण पत्र, छात्र-नेतed वैश्विक हैकथॉन<br>
-<img src="svg/IMG_7130.png" height="20" alt="Participation Badge" />
-  <a href="https://devsprint-lime.vercel.app/verify/GDGSDS26-66casNrK">
-  <a href="https://devsprint-lime.vercel.app/verify/GDGSDS26-66casNrK">
-<img src="https://devsprint-lime.vercel.app/api/badge/GDGSDS26-66casNrK.svg" height="20" alt="Badges" />
-  </a> हैकथॉन, आईबीएम देव डेज़, जीडीजीओसी<br>
+📜 हैकथॉन, आईबीएम देव डेज़, जीडीजीओसी<br>
 📜 परीक्षाएं, माइक्रोसॉफ्ट गिटहब फाउंडेशन्स, जावा सर्वरलेस<br>
 📜 अमेरिकी विश्वविद्यालय के कंप्यूटर विज्ञान पाठ्यक्रम<br>
-📜 स्नातक की डिग्री, भाषाविज्ञान (Linguistics)<br>
-📜 स्नातकोत्तर डिग्रियाँ (2020-वर्तमान), सॉफ्टवेयर इंजीनियरिंग (इंजीनियरिंग, कंप्यूटर साइंस (2023-वर्तमान))<br>
+📜 स्नातक की डिग्री, भाषाविज्ञान (भाषा विज्ञान)<br>
+📜 मास्टर्स / पोस्टग्रेजुएट डिग्रियां, सॉफ्टवेयर इंजीनियरिंग (इंजीनियरिंग) (2020–वर्तमान), कंप्यूटर साइंस (2023–वर्तमान)<br>
 📜 सॉफ्टवेयर इंजीनियरिंग / कंप्यूटर साइंस पर अमेरिकी विश्वविद्यालय के पाठ्यक्रम (वसन्त-शरद ऋतु 2026)<br>
 </div>
 
@@ -206,70 +198,6 @@
   </a>
 </p>    
 
-
-<table>
-  <tr>
-    <td width="20%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/swiftui-application.jpg" alt="swiftui" />
-</a>
-      </td>
-    <td width="30%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/virtual-reality-application.jpg" alt="vr" />
-</a>
-    </td>
-        <td width="20%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/react-application.jpg" alt="react" />
-</a>
-      </td>
-    <td width="30%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/augmented-reality-application.jpg" alt="ar" />
-</a>
-    </td>
-  </tr>
-</table>
-<table>
-    <tr>
-    <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/flutter-application.jpg" alt="flutter" />
-</a>
-    </td>
-    <td width="27.5%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/blazor-application.jpg" alt="blazor" />
-</a>
-    </td>
-        <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/django-application.jpg" alt="django" />
-</a>
-    </td>
-        <td width="27.5%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/android-application.jpg" alt="android" />
-</a>
-    </td>
-        <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/nodejs-application.jpg" alt="nodejs" />
-</a>
-    </td>
-  </tr>
-</table>
-
-|  |  |  |
-|:--|:--|:--|
-|  |  ![Contributions](svg/github_contributions.svg) |  |
-|  |  |  |
-|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=CSE_छ)  |  |
-|  |  |  |
-|  |  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" /><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
-|  |  |  |
-
 <table>
     <tr>
     <td width="40%" align="center">
@@ -294,7 +222,7 @@
 <details open>
   <summary>स्टिकी-टाइमटेबल™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/sticky-timetable.gif" alt="sticky timetable utility" />
+  <img height="400" src="svg/sticky-timetable.gif" alt="sticky timetable" />
 </a>
 </details open>
     </td>
@@ -330,7 +258,7 @@
 <details open>
   <summary>एनिमेटेड-स्टॉक™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/animated-stock.gif" alt="animated stock" />
+  <img height="400" src="svg/animated-stock-app.gif" alt="animated stock" />
 </a>
 </details open>
     </td>
@@ -356,11 +284,21 @@
     </td>
         <td width="30%" align="center">
 <details open>
-  <summary>फर्नीचर-पुल™</summary>
+  <summary>पोर्टेबल-पुल्स™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/furniture-pulls.gif" alt="furniture pulls" />
+  <img height="400" src="svg/portable-pulls.gif" alt="portable pulls" />
 </a>
 </details open>
     </td>
   </tr>
 </table>
+
+
+|  |  |  |
+|:--|:--|:--|
+|  |  ![Contributions](svg/github_contributions.svg) |  |
+|  |  |  |
+|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=CSE_छ)  |  |
+|  |  |  |
+|  |  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" />--><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
+|  |  |  |

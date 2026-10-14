@@ -1,4 +1,4 @@
-[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20-nl-%20Mobile%20Software%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20-nl-%20Mobile%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
 
 
 <div align="center">
@@ -26,9 +26,6 @@
     <a href="https://orcid.org/0009-0008-7057-4241">
   <img src="https://img.shields.io/badge/ORCID-404854?style=for-the-badge&logo=orcid&logoColor=white" />
     </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Algorithmic%20Podcast-EAE2D6?style=for-the-badge&logo=spotify&logoColor=1DB954" />
-</a>
 </p>
 
 <p align="center">
@@ -37,17 +34,12 @@
 
 <img src="https://img.shields.io/badge/CGPA-8.79_%2F_10-informational?style=flat" />
 <div align="left">
-📜 Conferencias de software, código abierto y aprendizaje automático<br>
-📜 Certificados, hackatones globales dirigidos por estudiantes<br>
-<img src="svg/IMG_7130.png" height="20" alt="Participation Badge" />
-  <a href="https://devsprint-lime.vercel.app/verify/GDGSDS26-66casNrK">
-  <a href="https://devsprint-lime.vercel.app/verify/GDGSDS26-66casNrK">
-<img src="https://devsprint-lime.vercel.app/api/badge/GDGSDS26-66casNrK.svg" height="20" alt="Badges" />
-  </a> Hackatones, IBM Dev Days, GDGoC<br>
+📜 Código abierto y aprendizaje automático, conferencias sobre software<br>
+📜 Concursos para estudiantes de CSE, IBM Dev Days, GDGoC<br>
 📜 Exámenes, Microsoft GitHub Foundations, Java Serverless<br>
 📜 Cursos de informática de universidades estadounidenses<br>
 📜 Grado universitario (Licenciatura), Lingüística<br>
-📜 Estudios de posgrado (2020-presente), Ingeniería de Software (Ingeniería, Ciencias de la Computación (2023-presente))<br>
+📜 Máster / Estudios de posgrado, Ingeniería de Software (Ingeniería) (2020-actualidad), Ciencias de la Computación (2023-actualidad)<br>
 📜 Cursos universitarios de EE. UU. sobre Ingeniería de Software / Ciencias de la Computación (primavera-otoño 2026)<br>
 </div>
 
@@ -208,69 +200,6 @@
 
 
 <table>
-  <tr>
-    <td width="20%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/swiftui-application.jpg" alt="swiftui" />
-</a>
-      </td>
-    <td width="30%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/virtual-reality-application.jpg" alt="vr" />
-</a>
-    </td>
-        <td width="20%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/react-application.jpg" alt="react" />
-</a>
-      </td>
-    <td width="30%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/augmented-reality-application.jpg" alt="ar" />
-</a>
-    </td>
-  </tr>
-</table>
-<table>
-    <tr>
-    <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/flutter-application.jpg" alt="flutter" />
-</a>
-    </td>
-    <td width="27.5%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/blazor-application.jpg" alt="blazor" />
-</a>
-    </td>
-        <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/django-application.jpg" alt="django" />
-</a>
-    </td>
-        <td width="27.5%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/android-application.jpg" alt="android" />
-</a>
-    </td>
-        <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/nodejs-application.jpg" alt="nodejs" />
-</a>
-    </td>
-  </tr>
-</table>
-
-|  |  |  |
-|:--|:--|:--|
-|  |  ![Contributions](svg/github_contributions.svg) |  |
-|  |  |  |
-|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=Estudiante_CSE)  |  |
-|  |  |  |
-|  |  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" /><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
-|  |  |  |
-
-<table>
     <tr>
     <td width="40%" align="center">
   <img height="400" src="https://github-readme-stats.vercel.app/api?username=saasmodularframework&show_icons=true&rank_icon=percentile&theme=nord&include_all_commits=true&custom_title=CSE%20student%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage" alt="stats" />
@@ -330,7 +259,7 @@
 <details open>
   <summary>stock-animado™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/animated-stock.gif" alt="animated stock" />
+  <img height="400" src="svg/animated-stock-app.gif" alt="animated stock" />
 </a>
 </details open>
     </td>
@@ -356,11 +285,20 @@
     </td>
         <td width="30%" align="center">
 <details open>
-  <summary>tiradores-de-muebles™</summary>
+  <summary>tiradores-portátiles™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/furniture-pulls.gif" alt="furniture pulls" />
+  <img height="400" src="svg/portable-pulls.gif" alt="portable pulls" />
 </a>
 </details open>
     </td>
   </tr>
 </table>
+
+|  |  |  |
+|:--|:--|:--|
+|  |  ![Contributions](svg/github_contributions.svg) |  |
+|  |  |  |
+|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=Estudiante_CSE)  |  |
+|  |  |  |
+|  |  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" />--><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
+|  |  |  |
