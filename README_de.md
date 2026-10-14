@@ -1,4 +1,4 @@
-[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20-nl-%20Mobile%20Software%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20-nl-%20Mobile%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
 
 
 <div align="center">
@@ -26,9 +26,6 @@
     <a href="https://orcid.org/0009-0008-7057-4241">
   <img src="https://img.shields.io/badge/ORCID-404854?style=for-the-badge&logo=orcid&logoColor=white" />
     </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Algorithmic%20Podcast-EAE2D6?style=for-the-badge&logo=spotify&logoColor=1DB954" />
-</a>
 </p>
 
 <p align="center">
@@ -37,15 +34,11 @@
 
 <img src="https://img.shields.io/badge/CGPA-8.79_%2F_10-informational?style=flat" />
 <div align="left">
-📜 Software-, Open-Source- & ML-Konferenzen<br>
-📜 Zertifikate, von Studierenden geleitete globale Hackathons<br>
-<img src="svg/IMG_7130.png" height="20" alt="Participation Badge" />
-  <a href="https://devsprint-lime.vercel.app/verify/GDGSDS26-66casNrK">
-<img src="https://devsprint-lime.vercel.app/api/badge/GDGSDS26-66casNrK.svg" height="20" alt="Badges" />
-  </a> Hackathons, IBM Dev Days, GDGoC<br>
+📜 Open-Source-, ML-& SoftwareKonferenzen<br>
+📜 Wettbewerbe für Studierende der Informatik, IBM Dev Days, GDGoC<br>
 📜 Prüfungen, Microsoft GitHub Foundations, Java Serverless<br>
 📜 Bachelorabschluss, Linguistik<br>
-📜 Bachelor- / Masterstudiengänge (2020–heute), Softwaretechnik (Ingenieurwesen, Informatik (2023–heute))<br>
+📜 Master / Postgraduale Abschlüsse, Softwaretechnik (Ingenieurwesen) (2020–heute), Informatik (2023–heute)<br>
 📜 US-Universitätskurse zu Softwaretechnik / Informatik (Frühjahr–Herbst 2026)<br>
 </div>
 
@@ -204,70 +197,6 @@
   </a>
 </p>    
 
-
-<table>
-  <tr>
-    <td width="20%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/swiftui-application.jpg" alt="swiftui" />
-</a>
-      </td>
-    <td width="30%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/virtual-reality-application.jpg" alt="vr" />
-</a>
-    </td>
-        <td width="20%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/react-application.jpg" alt="react" />
-</a>
-      </td>
-    <td width="30%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/augmented-reality-application.jpg" alt="ar" />
-</a>
-    </td>
-  </tr>
-</table>
-<table>
-    <tr>
-    <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/flutter-application.jpg" alt="flutter" />
-</a>
-    </td>
-    <td width="27.5%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/blazor-application.jpg" alt="blazor" />
-</a>
-    </td>
-        <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/django-application.jpg" alt="django" />
-</a>
-    </td>
-        <td width="27.5%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/android-application.jpg" alt="android" />
-</a>
-    </td>
-        <td width="15%" align="center">
-<a href="https://technoengineering.pythonanywhere.com" target="_blank">
-  <img height="400" src="svg/nodejs-application.jpg" alt="nodejs" />
-</a>
-    </td>
-  </tr>
-</table>
-
-|  |  |  |
-|:--|:--|:--|
-|  |  ![Contributions](svg/github_contributions.svg) |  |
-|  |  |  |
-|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=CSE_student)  |  |
-|  |  |  |
-|  |  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" /><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
-|  |  |  |
-
 <table>
     <tr>
     <td width="40%" align="center">
@@ -282,7 +211,7 @@
   <tr>
     <td width="30%" align="center">
 <details open>
-  <summary>Multiserver-Fiktion™<br />(2022–heute)</summary>
+  <summary>Multiserver-Fiktion™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/multiserver-fiction.gif" alt="multiserver fiction" />
 </a>
@@ -290,7 +219,7 @@
       </td>
     <td width="30%" align="center">
 <details open>
-  <summary>Angehefteter-Zeitplan™<br />(2026)</summary>
+  <summary>Angehefteter-Zeitplan™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/sticky-timetable.gif" alt="sticky timetable utility" />
 </a>
@@ -298,7 +227,7 @@
     </td>
         <td width="30%" align="center">
 <details open>
-  <summary>Metrik-Geräte™<br />(2023)</summary>
+  <summary>Metrik-Geräte™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/metrics-appliances.gif" alt="metrics appliances" />
 </a>
@@ -310,7 +239,7 @@
 <tr>
     <td width="30%" align="center">
 <details open>
-  <summary>Warenlieferung®<br />(2021)</summary>
+  <summary>Warenlieferung®</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/goods-delivery.gif" alt="goods delivery" />
 </a>
@@ -318,7 +247,7 @@
     </td>
         <td width="30%" align="center">
 <details open>
-  <summary>Statistik-Analysator™<br />(2023)</summary>
+  <summary>Statistik-Analysator™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/statistics-analyzer.gif" alt="statistics analyzer" />
 </a>
@@ -326,9 +255,9 @@
     </td>
         <td width="30%" align="center">
 <details open>
-  <summary>Animierter Bestand™<br />(2024)</summary>
+  <summary>Animierter Bestand™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/animated-stock.gif" alt="animated stock" />
+  <img height="400" src="svg/animated-stock-app.gif" alt="animated stock" />
 </a>
 </details open>
     </td>
@@ -338,7 +267,7 @@
     <tr>
         <td width="30%" align="center">
 <details open>
-  <summary>SaaS-Unterabschnitte™<br />(2025)</summary>
+  <summary>SaaS-Unterabschnitte™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/saas-subsections.gif" alt="saas subsections" />
 </a>
@@ -346,7 +275,7 @@
     </td>
         <td width="30%" align="center">
 <details open>
-  <summary>Reise-Häppchen™<br />(2021)</summary>
+  <summary>Reise-Häppchen™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
   <img height="400" src="svg/travel-nuggets.gif" alt="travel nuggets" />
 </a>
@@ -354,11 +283,21 @@
     </td>
         <td width="30%" align="center">
 <details open>
-  <summary>Möbelgriffe™<br />(2022)</summary>
+  <summary>Mobile-Griffe™</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/furniture-pulls.gif" alt="furniture pulls" />
+  <img height="400" src="svg/portable-pulls.gif" alt="portable pulls" />
 </a>
 </details open>
     </td>
   </tr>
 </table>
+
+|  |  |  |
+|:--|:--|:--|
+|  |  ![Contributions](svg/github_contributions.svg) |  |
+|  |  |  |
+|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=CSE_student)  |  |
+|  |  |  |
+|  |  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" /><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
+|  |  |  |
+
