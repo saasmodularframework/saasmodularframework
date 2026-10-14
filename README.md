@@ -1,4 +1,4 @@
-[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20·%20CSE%20Student%20Hackathons%20-nl-%20Mobile%20Software%20%2F%20ML%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20SaaS%20Products%20-nl-%20Mobile%20Software%20Applications%20&fontSize=30&fontAlign=65&rotate=13&fontAlignY=25)](https://linkedin.com/in/nataliia-rudnikova)
 
 
 <div align="center">
@@ -32,16 +32,17 @@
 </p>
 
 <p align="center">
-  <b>English</b> | <a href="README_zh.md"> 中文</a> | <a href="README_hi.md"> हिन्दी</a> | <a href="README_es.md"> Español</a> | <a href="README_ar.md"> العربية</a> | <a href="README_fr.md"> Français</a>
+  <b>English</b> | <a href="README_de.md"> Deutsch</a> | <a href="README_hi.md"> हिन्दी</a> | <a href="README_es.md"> Español</a> | <a href="README_ar.md"> العربية</a> | <a href="README_fr.md"> Français</a>
 </p>
 
 <img src="https://img.shields.io/badge/CGPA-8.79_%2F_10-informational?style=flat" />
 <div align="left">
 📜 Software, Open Source & ML Conferences<br>
 📜 Certificates, student-led global hackathons<br>
+<img src="svg/IMG_7130.png" height="20" alt="Participation Badge" />
   <a href="https://devsprint-lime.vercel.app/verify/GDGSDS26-66casNrK">
-<img src="https://devsprint-lime.vercel.app/api/badge/GDGSDS26-66casNrK.svg" height="20" alt="Champions Badge" />
-  </a> Hackathons, IBM Dev Days, GDGoC Dev-Sprint<br>
+<img src="https://devsprint-lime.vercel.app/api/badge/GDGSDS26-66casNrK.svg" height="20" alt="Badges" />
+  </a> Hackathons, IBM Dev Days, GDGoC<br>
 📜 Examinations, Microsoft GitHub Foundations, Java Serverless<br>
 📜 Undergraduate Degree, Linguistics<br>
 📜 Graduate / Postgraduate Degrees (2020-current), Software Engineering (Engineering, Computer Science(2023-current))<br>
@@ -264,7 +265,7 @@
 |  |  |  |
 |  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saasmodularframework&theme=nord_dark&hide_border=true&name=CSE_student)  |  |
 |  |  |  |
-|  |  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" />--><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
+|  |  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saasmodularframework&theme=nord_dark&utcOffset=-4&hide_border=true" width="40%" /><img src="https://streak-stats.demolab.com/?user=saasmodularframework&theme=nord&hide_border=true&v=1" width="60%" alt="GitHub Streak" /> |  |
 |  |  |  |
 
 <table>
@@ -279,84 +280,96 @@
 </table>
 <table>
   <tr>
-    <td width="20%" align="center">
-<details>
+    <td width="30%" align="center">
+<details open>
   <summary>multiserver-fiction™<br />(2022-current)</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-01.jpg" alt="multiserver fiction" />
+  <img height="400" src="svg/multiserver-fiction.gif" alt="multiserver fiction" />
 </a>
-</details>
+</details open>
       </td>
     <td width="30%" align="center">
-<details>
-  <summary>sticky-timetable™<br />(2026-current)</summary>
+<details open>
+  <summary>sticky-timetable™<br />(2026)</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-02.jpg" alt="sticky timetable utility" />
+  <img height="400" src="svg/sticky-timetable.gif" alt="sticky timetable utility" />
 </a>
-</details>
+</details open>
     </td>
-        <td width="20%" align="center">
-<details>
-  <summary>metrics-appliances™<br />(2023-current)</summary>
+        <td width="30%" align="center">
+<details open>
+  <summary>metrics-appliances™<br />(2023)</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-03.jpg" alt="metrics appliances" />
+  <img height="400" src="svg/metrics-appliances.gif" alt="metrics appliances" />
 </a>
-</details>
+</details open>
       </td>
-    <td width="30%" align="center">
-<details>
-  <summary>goods-delivery®<br />(2021-current)</summary>
-<a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-04.jpg" alt="goods delivery" />
-</a>
-</details>
-    </td>
   </tr>
 </table>
 <table>
+<tr>
+    <td width="30%" align="center">
+<details open>
+  <summary>goods-delivery®<br />(2021)</summary>
+<a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
+  <img height="400" src="svg/goods-delivery.gif" alt="goods delivery" />
+</a>
+</details open>
+    </td>
+        <td width="30%" align="center">
+<details open>
+  <summary>statistics-analyzer™<br />(2023)</summary>
+<a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
+  <img height="400" src="svg/statistics-analyzer.gif" alt="statistics analyzer" />
+</a>
+</details open>
+    </td>
+        <td width="30%" align="center">
+<details open>
+  <summary>animated-stock™<br />(2024)</summary>
+<a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
+  <img height="400" src="svg/animated-stock.gif" alt="animated stock" />
+</a>
+</details open>
+    </td>
+    </tr>
+</table>
+<table>
     <tr>
-    <td width="15%" align="center">
-<details>
-  <summary>statistics-analyzer™<br />(2023-current)</summary>
+        <td width="30%" align="center">
+<details open>
+  <summary>saas-subsections™<br />(2025)</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-05.jpg" alt="statistics analyzer" />
+  <img height="400" src="svg/saas-subsections.gif" alt="saas subsections" />
 </a>
-</details>
+</details open>
     </td>
-    <td width="27.5%" align="center">
-<details>
-  <summary>animated-stock™<br />(2024-current)</summary>
+        <td width="30%" align="center">
+<details open>
+  <summary>travel-nuggets™<br />(2021)</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-06.jpg" alt="animated stock" />
+  <img height="400" src="svg/travel-nuggets.gif" alt="travel nuggets" />
 </a>
-</details>
+</details open>
     </td>
-        <td width="15%" align="center">
-<details>
-  <summary>saas-subsections™<br />(2025-current)</summary>
+        <td width="30%" align="center">
+<details open>
+  <summary>furniture-pulls™<br />(2022)</summary>
 <a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-07.jpg" alt="saas subsections" />
+  <img height="400" src="svg/furniture-pulls.gif" alt="furniture pulls" />
 </a>
-</details>
-    </td>
-        <td width="27.5%" align="center">
-<details>
-  <summary>travel-nuggets™<br />(2021-current)</summary>
-<a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-08.jpg" alt="travel nuggets" />
-</a>
-</details>
-    </td>
-        <td width="15%" align="center">
-<details>
-  <summary>furniture-pulls™<br />(2022-current)</summary>
-<a href="https://technoengineering.pythonanywhere.com/about-saas-products" target="_blank">
-  <img height="400" src="svg/image-09.jpg" alt="furniture pulls" />
-</a>
-</details>
+</details open>
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
 
 
 
